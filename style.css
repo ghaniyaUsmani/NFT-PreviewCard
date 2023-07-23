@@ -1,0 +1,123 @@
+*
+{
+  background-color: hsl(217, 54%, 11%);
+}
+section
+{
+  padding-top: 100px;
+
+}
+.container
+{
+  width: 260px;
+  padding: 20px 1px 0;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  justify-content: center;
+  background-color: hsl(216, 50%, 16%);
+  border-radius: 8px;
+  color:hsl(0, 0%, 100%);
+}
+img
+{
+  width: 230px;
+  padding:0;
+  border-radius: 8px;
+}
+.content
+{
+  background-color: hsl(216, 50%, 16%);
+  padding-left: 20px;
+  position: relative;
+  top:-25px;
+}
+h6
+{
+  background-color: hsl(216, 50%, 16%);
+  text-align: left;
+  font-family: 'Outfit', sans-serif;
+  font-size: 19px;
+  letter-spacing: 1px;
+}
+p
+{
+  text-align: left;
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(216, 50%, 16%);
+  font-size: 13px;
+  color: hsl(215, 51%, 70%);
+  position: relative;
+  top:-30px;
+}
+table
+{
+  background-color: hsl(216, 50%, 16%);
+  position: relative;
+  top:-10px;
+}
+.left
+{
+  background-color: hsl(216, 50%, 16%);
+  position: relative;
+  left:-5px;
+}
+.left p
+{
+  font-size: 16px;
+  font-weight: bold;
+  color: hsl(178, 100%, 50%);
+}
+.ethereum
+{
+  width: 8px;
+  background-color: hsl(216, 50%, 16%);
+  letter-spacing: 2px;
+}
+.right
+{
+  background-color: hsl(216, 50%, 16%);
+  position: relative;
+  left:50px;
+}
+.right p
+{
+  font-size: 14px;
+  text-align: right;
+}
+.clock
+{
+  width: 11px;
+  background-color: hsl(216, 50%, 16%);
+  letter-spacing: 2px;
+
+}
+hr
+{
+  position: relative;
+  right: 7px;
+  top:-50px;
+  height: 2px;
+  background-color: hsl(215, 32%, 27%);
+  border: none;
+}
+.creation
+{
+  background-color: hsl(216, 50%, 16%);
+  position: relative;
+  top:-30px;
+}
+.avatar
+{
+  background-color: hsl(216, 50%, 16%);
+  width: 25px;
+  align-self: left;
+  padding-right: 5px;
+  position: relative;
+  top:6px;
+}
+.creation p b
+{
+  background-color: hsl(216, 50%, 16%);
+  color: hsl(0, 0%, 100%);
+  letter-spacing: 1px;
